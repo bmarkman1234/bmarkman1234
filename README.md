@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=180&section=header&text=Bruce%20Markman&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Environmental%20Analyst%20%C2%B7%20Geospatial%20Scientist&descFontColor=c8e6c9&descSize=18&descAlignY=68&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2d5016,100:8b7355&height=180&section=header&text=Bruce%20Markman&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Environmental%20Analyst%20%C2%B7%20Geospatial%20Scientist&descFontColor=f5e6d3&descSize=18&descAlignY=68&animation=fadeIn)
 
 <div align="center">
 
@@ -55,4 +55,4 @@ M.S. Geography, San Diego State University · B.S. Conservation Biology, UC Davi
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=90&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b7355,100:2d5016&height=90&section=footer)
