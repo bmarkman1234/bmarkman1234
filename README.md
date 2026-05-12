@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=150&section=header&text=Bruce%20Markman&fontColor=ffffff&fontSize=46&desc=Environmental%20Analyst%20%C2%B7%20Geospatial%20Scientist&descFontColor=c8e6c9&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=180&section=header&text=Bruce%20Markman&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Environmental%20Analyst%20%C2%B7%20Geospatial%20Scientist&descFontColor=c8e6c9&descSize=18&descAlignY=68&animation=fadeIn)
 
 <div align="center">
 
@@ -11,7 +11,9 @@
 
 ---
 
-Environmental analyst and geospatial scientist based in San Diego, CA. I work at the intersection of GIS, remote sensing, and ecological field work — translating complex spatial data into clear, actionable insights for conservation, planning, and infrastructure.
+I'm a geospatial professional passionate about using maps, data, and remote sensing to better understand and manage our environment 🌍
+
+My work sits at the intersection of GIS, remote sensing, and environmental science — building workflows with UAV LiDAR, hyperspectral imagery, and field data to model vegetation and support real-world land management decisions. Especially interested in where geospatial meets emerging tech.
 
 M.S. Geography, San Diego State University · B.S. Conservation Biology, UC Davis · FAA Part 107 Certified Drone Pilot
 
@@ -52,13 +54,5 @@ M.S. Geography, San Diego State University · B.S. Conservation Biology, UC Davi
 [**sdTerra**](https://github.com/bmarkman1234/sdTerra) — R-based relief map combining PRISM climate data, USGS elevation, and terrain exposure proxy.
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmarkman1234&show_icons=true&hide_border=true&title_color=2e7d32&icon_color=2e7d32&text_color=333333&bg_color=ffffff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmarkman1234&layout=compact&hide_border=true&title_color=2e7d32&text_color=333333&bg_color=ffffff)
-
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=90&section=footer)
