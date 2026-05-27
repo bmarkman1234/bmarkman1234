@@ -8,15 +8,12 @@
 [![Email](https://img.shields.io/badge/Email-bmarkman1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bmarkman1234@gmail.com)
 
 </div>
----
 
 I'm a geospatial professional passionate about using maps, data, and remote sensing to better understand and manage our environment 🌍
 
 My work sits at the intersection of GIS, remote sensing, and environmental science. I have built workflows with UAV LiDAR, hyperspectral imagery, transportation planning, and field data to support real-world management decisions. Especially interested in where geospatial meets emerging tech.
 
 M.S. Geography, San Diego State University · B.S. Conservation Biology, UC Davis · FAA Part 107 Certified Drone Pilot
-
----
 
 ### Languages & Programming
 
