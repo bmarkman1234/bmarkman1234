@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-bmarkman1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bmarkman1234@gmail.com)
 
 </div>
-
 ---
 
 I'm a geospatial professional passionate about using maps, data, and remote sensing to better understand and manage our environment 🌍
@@ -34,7 +33,6 @@ M.S. Geography, San Diego State University · B.S. Conservation Biology, UC Davi
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 ![ENVI](https://img.shields.io/badge/ENVI-1b5e20?style=flat-square)
-![LAStools](https://img.shields.io/badge/LAS%toools-2e7d32?style=flat-square)
 
 ---
 
