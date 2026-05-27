@@ -34,7 +34,7 @@ M.S. Geography, San Diego State University · B.S. Conservation Biology, UC Davi
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 ![ENVI](https://img.shields.io/badge/ENVI-1b5e20?style=flat-square)
-![LAStools](https://img.shields.io/badge/UAV%20LiDAR-2e7d32?style=flat-square)
+![LAStools](https://img.shields.io/badge/LAS%toools-2e7d32?style=flat-square)
 
 ---
 
