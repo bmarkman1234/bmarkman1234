@@ -15,15 +15,6 @@ My work sits at the intersection of GIS, remote sensing, and environmental scien
 
 M.S. Geography, San Diego State University · B.S. Conservation Biology, UC Davis · FAA Part 107 Certified Drone Pilot
 
-### Languages & Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ### GIS, Remote Sensing & Spatial Tools
 
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=flat-square&logo=esri&logoColor=white)
