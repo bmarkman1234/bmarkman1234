@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2d5016,100:8b7355&height=180&section=header&text=Bruce%20Markman&fontColor=ffffff&fontSize=46&fontAlignY=50&animation=fadeIn)
 
 <div align="center">
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-bmarkman1234.github.io-2e7d32?style=flat-square)](https://bmarkman1234.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruce%20Markman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-markman-b74a611ab/)
 [![Flickr](https://img.shields.io/badge/Photography-Flickr-0063DC?style=flat-square&logo=flickr&logoColor=white)](https://www.flickr.com/photos/brucemarkman/)
