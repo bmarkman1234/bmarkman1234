@@ -8,8 +8,7 @@
 <p>
   <a href="https://bmarkman1234.github.io/portfolio">portfolio</a> |
   <a href="https://www.linkedin.com/in/bruce-markman-b74a611ab/">linkedin</a> |
-  <a href="https://www.flickr.com/photos/brucemarkman/">photography</a> |
-  <a href="mailto:bmarkman1234@gmail.com">email</a>
+  <a href="https://www.flickr.com/photos/brucemarkman/">photography</a>
 </p>
 
 <hr>
@@ -28,18 +27,18 @@
   applications.
 </p>
 
-<pre>
-M.S. Geography, San Diego State University
-B.S. Conservation Biology, UC Davis
-FAA Part 107 Certified Drone Pilot
-</pre>
+<p>
+  M.S. Geography, San Diego State University<br>
+  B.S. Conservation Biology, UC Davis<br>
+  FAA Part 107 Certified Drone Pilot
+</p>
 
 <h2>Tools</h2>
 
-<pre>
-Python / R / JavaScript / HTML / CSS / Git
-ArcGIS Pro / QGIS / Google Earth Engine / ENVI
-</pre>
+<p>
+  Python / R / JavaScript / HTML / CSS / Git<br>
+  ArcGIS Pro / QGIS / Google Earth Engine / ENVI
+</p>
 
 <h2>Selected Projects</h2>
 
