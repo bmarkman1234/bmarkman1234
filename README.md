@@ -1,11 +1,6 @@
 <h1>Bruce Markman</h1>
 
 <p>
-  Geospatial scientist working with GIS, remote sensing, environmental data,
-  and field-based spatial workflows.
-</p>
-
-<p>
   <a href="https://bmarkman1234.github.io/portfolio">portfolio</a> |
   <a href="https://www.linkedin.com/in/bruce-markman-b74a611ab/">linkedin</a> |
   <a href="https://www.flickr.com/photos/brucemarkman/">photography</a>
@@ -17,20 +12,14 @@
 
 <p>
   I work at the intersection of GIS, remote sensing, and environmental science,
-  building practical workflows for mapping, monitoring, and land management
-  decisions.
+  with a growing focus on open source development for practical mapping,
+  monitoring, and land management workflows.
 </p>
 
 <p>
   My recent work has included UAV LiDAR, hyperspectral imagery, transportation
   planning, field data collection, and machine learning for environmental
   applications.
-</p>
-
-<p>
-  M.S. Geography, San Diego State University<br>
-  B.S. Conservation Biology, UC Davis<br>
-  FAA Part 107 Certified Drone Pilot
 </p>
 
 <h2>Tools</h2>
