@@ -22,12 +22,6 @@
   applications.
 </p>
 
-<h2>Tools</h2>
-
-<p>
-  Python / R / JavaScript / HTML / CSS / Git<br>
-  ArcGIS Pro / QGIS / Google Earth Engine / ENVI
-</p>
 
 <h2>Selected Projects</h2>
 
