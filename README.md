@@ -6,10 +6,6 @@
   <a href="https://www.flickr.com/photos/brucemarkman/">photography</a>
 </p>
 
-<hr>
-
-<h2>About</h2>
-
 <p>
 I enjoy making maps and dabbling in open source dev
 </p>
