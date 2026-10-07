@@ -47,5 +47,3 @@
     <td>R-based relief map combining PRISM climate data, USGS elevation, and terrain exposure proxy.</td>
   </tr>
 </table>
-
-<hr>
