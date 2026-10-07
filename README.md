@@ -49,5 +49,3 @@
 </table>
 
 <hr>
-
-<p><small>San Diego, California</small></p>
