@@ -11,17 +11,8 @@
 <h2>About</h2>
 
 <p>
-  I work at the intersection of GIS, remote sensing, and environmental science,
-  with a growing focus on open source development for practical mapping,
-  monitoring, and land management workflows.
+I enjoy making maps and dabbling in open source dev
 </p>
-
-<p>
-  My recent work has included UAV LiDAR, hyperspectral imagery, transportation
-  planning, field data collection, and machine learning for environmental
-  applications.
-</p>
-
 
 <h2>Selected Projects</h2>
 
